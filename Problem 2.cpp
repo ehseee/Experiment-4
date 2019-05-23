@@ -28,7 +28,7 @@ int main()
 			}
 	}
 	
-	cout << "\nAfter using Bubble Sort..." << endl;
+	cout << "\nAfter using either Selection or Bubble Sort..." << endl;
 	cout<< "Sorted Data: ";
 	for (i = 0; i < n; i++)
 	cout << a[i] << " ";
